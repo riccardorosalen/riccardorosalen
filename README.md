@@ -7,13 +7,13 @@
 - 💞️ I’m looking to collaborate on whatever life's path brings to me 
 
 - 🦾 Stronger interests(not necessarily in order): 
-					1)Machine Learning
- 					2)Neural Networks
- 					3)Computer Vision
+-					1)Machine Learning
+-					2)Neural Networks
+- 					3)Computer Vision
 
 - 📫 How to reach me:
- 					e-mail: 		riccardo.rosalen@gmail.com
- 					Linkedin: 		Riccardo Rosalen
+- 					e-mail: 		riccardo.rosalen@gmail.com
+- 					Linkedin: 		Riccardo Rosalen
  					
  					
 
