@@ -9,7 +9,7 @@
 - 🦾 Stronger interests(not necessarily in order): 
 -					1)Machine Learning
 -					2)Neural Networks
-- 				3)Computer Vision
+- 				        3)Computer Vision
 
  					
  					
