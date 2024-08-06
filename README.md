@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riccardorosalen
 
-- 👀 I’m interested in all kinds of programming stuff (I would like to have more time without studying, to be able to dedicate on different projects)
+- 👀 I’m interested in all kinds of programming stuff
 
 - 🌱 I’m currently learning and studying at University of Padua, Italy
 
